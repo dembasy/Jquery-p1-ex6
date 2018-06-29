@@ -1,3 +1,3 @@
 $(function(){
-  $('.hide').css("visibility", "hidden");
+  $('.hide').hide();
 });
